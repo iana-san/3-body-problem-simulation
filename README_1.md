@@ -1,3 +1,4 @@
+
 # 🌌 Celestial Chaos: A 3-Body Problem Simulator
 
 Welcome to **Celestial Chaos**, a chaotic little playground for simulating the infamous **3-Body Problem** using a customized implementation of the Mercury6 N-body integrator.
